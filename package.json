@@ -1,0 +1,28 @@
+{
+  "name": "easycms",
+  "version": "0.1.0",
+  "description": "This project will help admins manage their content magically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/globalfarmer/easycms.git"
+  },
+  "keywords": [
+    "cms",
+    "react"
+  ],
+  "author": "globalfarmer <dovietanh.95@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/globalfarmer/easycms/issues"
+  },
+  "homepage": "https://github.com/globalfarmer/easycms#readme",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "react": "^16.4.1",
+    "react-modal": "^3.5.1"
+  }
+}
